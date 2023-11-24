@@ -413,7 +413,7 @@ return [
         'hostname'       => '127.0.0.1',
         'database'       => 'robot',
         'username'       => 'robot',
-        'password'       => 'GykDLsAThw5WH8Ge',
+        'password'       => 'suibian',
         'hostport'       => '3306',
         // 连接dsn
         'dsn'            => '',
